@@ -1,8 +1,8 @@
 {
-  "id": "93fe1a",
+  "id": "gumvid",
   "name": "Gumlet Video",
   "modes": [
     "canvas"
   ],
-  "icon": "/icon.svg"
+  "icon": "/gumlet-logo.png"
 }
